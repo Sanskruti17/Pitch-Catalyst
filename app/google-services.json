@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377622966411",
+    "project_id": "realtime-database-f7773",
+    "storage_bucket": "realtime-database-f7773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377622966411:android:31b34d8531e7e1397e248e",
+        "android_client_info": {
+          "package_name": "com.example.pitchcatalyst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlPhymalEiIVpyBCF-gE-Jy22nHbSgJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
